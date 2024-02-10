@@ -1,0 +1,31 @@
+.Card{
+    height: auto;
+    width: auto;
+    border: 2px solid black;
+    padding: 15px;
+    background-color: azure;
+    margin-top: 100px;
+    align-items: center;
+    text-align: center;
+    font-style: normal;
+    border-radius: 20px;
+    
+    box-shadow:  1px 1px 1px 1px black;
+
+}
+.Card:hover{
+    box-shadow:  1px 1px 1px 1px black;
+    justify-content: space-evenly;
+    justify-content: center;
+    gap: 10px;
+    transform: scale(1.1);
+}
+.Btn{
+     height:40px;
+     width:90px;
+     background: linear-gradient(teal,black);
+     font-weight: bold;
+}
+.Btn:hover{
+   background: linear-gradient(blue,black);
+}

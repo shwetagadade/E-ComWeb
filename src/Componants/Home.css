@@ -1,0 +1,12 @@
+.Home{
+    padding: 40px;
+     flex-wrap: wrap;
+     display: flex;
+     justify-content: space-around;
+     align-items: center;
+     gap: 50px;
+     box-sizing: border-box;
+     border-radius: 10px;
+    
+  
+} 

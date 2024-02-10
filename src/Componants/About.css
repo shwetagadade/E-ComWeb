@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&family=Playfair+Display:ital@1&family=Poppins:wght@300&family=Raleway:wght@300&display=swap');
+*{
+    padding: 0%;
+    margin: 0%;
+    background-position:center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.About{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+.imgs{
+    height: 500px;
+    width: 350px;
+    padding: 50px;
+    position: relative;
+    transform-style: preserve-3d;
+    
+}
+.img1{
+    height: 500px;
+    width: 300px
+}
+
+.p11{
+    width: 700px;
+}  
+.p1{
+    text-align: center;
+    font-size: medium;
+    font-weight: 900;
+}  
+
+
+
